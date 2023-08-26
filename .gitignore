@@ -4,3 +4,6 @@
 
 # databases
 **/*.db
+
+# virtual env
+**/venv
